@@ -1,2 +1,2 @@
-# Exercicio_01
+# Lista de Exercícios 01
 Exercícios 01 - +PraTI
